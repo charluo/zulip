@@ -164,7 +164,7 @@ and posting on whether or not it worked is valuable.
 
 ## Google Summer of Code
 
-We participated in
+WE participated in 
 [GSoC](https://developers.google.com/open-source/gsoc/) in 2016 (with
 [great results](https://blog.zulip.org/2016/10/13/static-types-in-python-oh-mypy/))
 and [are participating](https://github.com/zulip/zulip.github.io/blob/master/gsoc-ideas.md)
